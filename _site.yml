@@ -1,0 +1,11 @@
+name: "Jarely-Soriano"
+navbar:
+  title: "Jarely's Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Malaria Data"
+      href: malariainmf.html 
+  
